@@ -11,10 +11,14 @@ There are 5 questions in total:
   Draw snowflake schema diagram for the above dataset.
   
   #### Question 3:
+  Decision Tree
   
   #### Question 4:
+  Apriori
   
   #### Question 5:
+  Clustering
   
   
-  I have chosen airbnb dataset in order to answer all questions above. 
+  
+I have chosen airbnb dataset in order to answer all questions above. 
