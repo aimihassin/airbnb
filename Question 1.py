@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Data Mining Final Exam Part 1
-# 
-#     Name: Aimi Nabilah Hassin
-#     Matric No: WQD180105/17198801
-
 # ## Question 1
 
 # In[1]:
