@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Data Mining Final Exam Part 2
-# 
-#     Name: Aimi Nabilah Hassin
-#     Matric No: WQD180105/17198801
-
 # ### Question 3
 # 
 # In this question, I am using the airbnb dataset from Question 1. The aim for this question is to predict the price for the listing house on airbnb. A predictive model based on Decision Tree algorithm shall be built in order to perform the price prediction.
